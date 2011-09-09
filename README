@@ -1,3 +1,8 @@
+About
+-----
+This is just a proof-of-concept. Dont expect it to be a solution for anything, but it
+may be useful for certain things. It can login to an ami server and listen for events.
+
 Configure
 ---------
 Edit bami.sh and setup log path, and AMI username and password.
