@@ -1,0 +1,10 @@
+Configure
+---------
+Edit bami.sh and setup log path, and AMI username and password.
+
+Running
+-------
+You will need something like netcat. Example:
+
+nc 127.0.0.1 5038 -e ./bami.sh
+
